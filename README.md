@@ -1,8 +1,8 @@
 # AIChat: All-in-one LLM CLI Tool
 
-[![CI]([https://github.com/MohamadAub](https://github.com/MohamadAub))]
-[![Crates](https://img.shields.io/crates/v/aichat.svg)]((https://www.linkedin.com/in/mohamad-el-ayoubi-48a3301b7/))
-[![Discord](https://img.shields.io/telegram)]([https://web.telegram.org/a/])
+[![CI]([https://github.com/MohamadAub])]
+[![Crates]([https://www.linkedin.com/in/mohamad-el-ayoubi-48a3301b7/])]
+[![Discord](https://web.telegram.org/a/)]
 
 AIChat is an all-in-one LLM CLI tool featuring Shell Assistant, CMD & REPL Mode, RAG, AI Tools & Agents, and More. 
 
