@@ -1,7 +1,7 @@
 # AIChat: All-in-one LLM CLI Tool
 
-[![CI](https://github.com/MohamadAub/aichat/actions/workflows/ci.yaml/badge.svg)](https://github.com/MohamadAub/aichat/actions/workflows/ci.yaml)
-[![Crates](https://img.shields.io/crates/v/aichat.svg)]([https://crates.io/crates/aichat](https://www.linkedin.com/in/mohamad-el-ayoubi-48a3301b7/))
+[![CI]([https://github.com/MohamadAub](https://github.com/MohamadAub))]
+[![Crates](https://img.shields.io/crates/v/aichat.svg)]((https://www.linkedin.com/in/mohamad-el-ayoubi-48a3301b7/))
 [![Discord](https://img.shields.io/telegram)]([https://web.telegram.org/a/])
 
 AIChat is an all-in-one LLM CLI tool featuring Shell Assistant, CMD & REPL Mode, RAG, AI Tools & Agents, and More. 
@@ -16,9 +16,7 @@ AIChat is an all-in-one LLM CLI tool featuring Shell Assistant, CMD & REPL Mode,
 - **Windows Scoop Users:** `scoop install aichat`
 - **Android Termux Users:** `pkg install aichat`
 
-### Pre-built Binaries
 
-Download pre-built binaries for macOS, Linux, and Windows from [GitHub Releases](https://github.com/MohamadAub/aichat/releases), extract them, and add the `aichat` binary to your `$PATH`.
 
 ## Features
 
@@ -91,8 +89,6 @@ Integrate external documents into your LLM conversations for more accurate and c
 
 Function calling supercharges LLMs by connecting them to external tools and data sources. This unlocks a world of possibilities, enabling LLMs to go beyond their core capabilities and tackle a wider range of tasks.
 
-We have created a new repository [https://github.com/MohamadAub/llm-functions](https://github.com/MohamadAub/llm-functions) to help you make the most of this feature.
-
 #### AI Tools & MCP
 
 Integrate external tools to automate tasks, retrieve information, and perform actions directly within your workflow.
@@ -148,20 +144,7 @@ A web platform to compare different LLMs side-by-side.
 
 AIChat supports custom dark and light themes, which highlight response text and code blocks.
 
-![aichat-themes](https://github.com/MohamadAub/aichat/assets/4012553/29fa8b79-031e-405d-9caa-70d24fa0acf8)
-
-## Documentation
-
-- [Chat-REPL Guide](https://github.com/MohamadAub/aichat/wiki/Chat-REPL-Guide)
-- [Command-Line Guide](https://github.com/MohamadAub/aichat/wiki/Command-Line-Guide)
-- [Role Guide](https://github.com/MohamadAub/aichat/wiki/Role-Guide)
-- [Macro Guide](https://github.com/MohamadAub/aichat/wiki/Macro-Guide)
-- [RAG Guide](https://github.com/MohamadAub/aichat/wiki/RAG-Guide)
-- [Environment Variables](https://github.com/MohamadAub/aichat/wiki/Environment-Variables)
-- [Configuration Guide](https://github.com/MohamadAub/aichat/wiki/Configuration-Guide)
-- [Custom Theme](https://github.com/MohamadAub/aichat/wiki/Custom-Theme)
-- [Custom REPL Prompt](https://github.com/MohamadAub/aichat/wiki/Custom-REPL-Prompt)
-- [FAQ](https://github.com/MohamadAub/aichat/wiki/FAQ)
+![aichat-themes](https://github.com/aichat/assets/4012553/29fa8b79-031e-405d-9caa-70d24fa0acf8)
 
 ## License
 
