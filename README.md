@@ -137,11 +137,6 @@ A web platform to compare different LLMs side-by-side.
 
 ![aichat-llm-arena](https://github.com/user-attachments/assets/edabba53-a1ef-4817-9153-38542ffbfec6)
 
-## Custom Themes
-
-AIChat supports custom dark and light themes, which highlight response text and code blocks.
-
-![aichat-themes](https://github.com/aichat/assets/4012553/29fa8b79-031e-405d-9caa-70d24fa0acf8)
 
 ## License
 
